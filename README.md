@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Lucas! 👋
+# Olá, eu sou o Arthur Lucas! 
 
 Desenvolvedor focado no ecossistema **Java**, construindo soluções do hardware ao código.
 
