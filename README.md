@@ -4,7 +4,6 @@ Desenvolvedor focado no ecossistema **Java**, construindo soluções do hardware
 
 ### 🛠️ Minhas Stacks Principais
 * **Back-end:** Java 17, Spring Boot, MySQL e lógica de coleções.
-* **Front-end Imersivo:** React 19, Three.js e animações modernas.
 * **Infra:** Manutenção de Hardware e Arquitetura de Computadores.
 
 ### 🚀 Peça de Ouro
