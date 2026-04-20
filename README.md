@@ -1,43 +1,76 @@
 ```
- ██████╗ ████████╗██╗  ██╗██╗   ██╗██████╗ ██╗      ██╗   ██╗ ██████╗ █████╗ ███████╗
- ██╔══██╗╚══██╔══╝██║  ██║██║   ██║██╔══██╗██║      ██║   ██║██╔════╝██╔══██╗██╔════╝
- ██████╔╝   ██║   ███████║██║   ██║██████╔╝██║      ██║   ██║██║     ███████║███████╗
- ██╔══██╗   ██║   ██╔══██║██║   ██║██╔══██╗██║      ██║   ██║██║     ██╔══██║╚════██║
- ██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║███████╗ ╚██████╔╝╚██████╗██║  ██║███████║
- ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
-```
+GITHUB PROFILE SYSTEM — ENTITY SCAN INITIATED
+══════════════════════════════════════════════════════════════
+  SCANNING: rthurlucas
+  TIMESTAMP: 2025
+  STATUS: ACTIVE
+══════════════════════════════════════════════════════════════
 
-```bash
-$ whoami
-> arthur-lucas — back-end developer, São Paulo/SP
+[INIT]     Loading entity profile...
+[OK]       Entity found: ARTHUR LUCAS — São Paulo, BR
+[OK]       Classification: Back-End Developer (in training)
+[OK]       Primary language: Java
+[WARN]     First internship not yet acquired — entity is hunting
 
-$ cat skills.txt
-> Java 17 · Spring Boot · Spring Security · JWT
-> JPA/Hibernate · Flyway · MySQL · REST APIs
-> Azure AI (AI-102) · Git · Maven
+══════════════════════════════════════════════════════════════
+  CORE SYSTEMS DETECTED
+══════════════════════════════════════════════════════════════
 
-$ ls projects/
-> AutoEscolaN116/   loja-jogos/   ViaCEP/   ConversorNumero/   WebService/
+[SCAN]     Runtime ............... Java 17
+[SCAN]     Framework ............. Spring Boot
+[SCAN]     Auth layer ............ Spring Security + JWT
+[SCAN]     ORM ................... JPA / Hibernate
+[SCAN]     Migrations ............ Flyway
+[SCAN]     Database .............. MySQL
+[SCAN]     Version control ....... Git / GitHub
+[SCAN]     Cloud AI .............. Azure AI-102
 
-$ cat projects/AutoEscolaN116/description.txt
-> API REST completa para gestão de autoescola
-> Autenticação via JWT + Spring Security
-> Migrations com Flyway, arquitetura em camadas
+[OK]       All systems nominal.
 
-$ cat achievements.log
-> [2024] Medalha de Ouro — OMASP
-> [2024] 2x Medalha de Ouro — Olimpíada de Redação SP
-> [2024] Certificação Azure AI-102 · 60h · Computer Vision + NLP + Gen AI
+══════════════════════════════════════════════════════════════
+  ACTIVE OPERATIONS LOG
+══════════════════════════════════════════════════════════════
 
-$ cat status.txt
-> Estudando  : SENAI — Desenvolvedor Back-End + Spring Boot com API REST
-> Buscando   : Primeiro estágio em desenvolvimento back-end
-> Localização: São Paulo, SP
+[OP-001]   AutoEscolaN116
+           DESC  > REST API · autoescola management system
+           STACK > Spring Boot · Spring Security · JWT · Flyway · MySQL
+           STATUS> IN PROGRESS
 
-$ ./contact --list
-> LinkedIn  → linkedin.com/in/arthurlucaas
-> GitHub    → github.com/rthurlucas
-> Portfolio → meu-portfolio-mu-three.vercel.app
+[OP-002]   loja-jogos
+           DESC  > e-commerce REST API for game store
+           STACK > Spring Boot · JPA · MySQL
+           STATUS> IN PROGRESS
+
+[OP-003]   ViaCEP Client
+           DESC  > REST consumer · postal code lookup
+           STACK > Spring Boot · RestTemplate
+           STATUS> COMPLETE
+
+[OP-004]   ConversorNumero
+           DESC  > SOAP web service · numeric conversion
+           STACK > Java · JAX-WS
+           STATUS> COMPLETE
+
+══════════════════════════════════════════════════════════════
+  ACHIEVEMENT REGISTRY
+══════════════════════════════════════════════════════════════
+
+[RECORD]   Gold Medal — OMASP .......................... [2024]
+[RECORD]   Gold Medal x2 — Olimpiada de Redacao SP .... [2024]
+[RECORD]   Azure AI-102 Certification (60h) ........... [2024]
+
+══════════════════════════════════════════════════════════════
+  NETWORK INTERFACES
+══════════════════════════════════════════════════════════════
+
+[LINK]     LinkedIn  > linkedin.com/in/arthurlucaas
+[LINK]     Portfolio > meu-portfolio-mu-three.vercel.app
+[LINK]     GitHub    > github.com/rthurlucas
+
+══════════════════════════════════════════════════════════════
+[FINAL]    Entity scan complete.
+[FINAL]    Recommendation: HIRE THIS DEVELOPER.
+══════════════════════════════════════════════════════════════
 ```
 
 ---
@@ -49,7 +82,7 @@ $ ./contact --list
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Azure](https://img.shields.io/badge/Azure_AI-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
