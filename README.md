@@ -25,7 +25,7 @@
 
 ---
 
-### 🖤 about me
+### about me
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ goal:     primeiro estágio em tech
 
 ---
 
-### ❤️ technologies
+### technologies
 
 **core**
 
@@ -78,7 +78,7 @@ goal:     primeiro estágio em tech
 
 ---
 
-### 🗂️ projects
+### projects
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ consumo de web service SOAP para conversão numérica.
 
 ---
 
-### 📊 statistics
+### statistics
 
 <div align="center">
 
