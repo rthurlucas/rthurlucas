@@ -1,0 +1,36 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="120" fill="#000000"/>
+
+  <!-- Onda 1 - vermelha escura, mais lenta -->
+  <path fill="#5a0000" opacity="0.6">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,60 C150,20 300,100 450,60 C600,20 750,100 900,60 L900,120 L0,120 Z;
+        M0,60 C150,100 300,20 450,60 C600,100 750,20 900,60 L900,120 L0,120 Z;
+        M0,60 C150,20 300,100 450,60 C600,20 750,100 900,60 L900,120 L0,120 Z
+      "/>
+  </path>
+
+  <!-- Onda 2 - vermelha média -->
+  <path fill="#8b0000" opacity="0.7">
+    <animate attributeName="d" dur="4.5s" repeatCount="indefinite"
+      values="
+        M0,70 C120,30 280,110 450,70 C620,30 780,110 900,70 L900,120 L0,120 Z;
+        M0,70 C120,110 280,30 450,70 C620,110 780,30 900,70 L900,120 L0,120 Z;
+        M0,70 C120,30 280,110 450,70 C620,30 780,110 900,70 L900,120 L0,120 Z
+      "/>
+  </path>
+
+  <!-- Onda 3 - vermelha viva, mais rápida -->
+  <path fill="#cc2200" opacity="0.5">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite"
+      values="
+        M0,80 C100,50 250,110 450,80 C650,50 800,110 900,80 L900,120 L0,120 Z;
+        M0,80 C100,110 250,50 450,80 C650,110 800,50 900,80 L900,120 L0,120 Z;
+        M0,80 C100,50 250,110 450,80 C650,50 800,110 900,80 L900,120 L0,120 Z
+      "/>
+  </path>
+
+  <!-- Texto centralizado acima da onda -->
+  <text x="450" y="45" text-anchor="middle" font-family="monospace" font-size="13" fill="#888888" letter-spacing="2">feito com java e café · são paulo, br</text>
+</svg>
