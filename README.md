@@ -2,6 +2,8 @@
   <img src="./banner.svg" width="100%"/>
 </div>
 
+
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23cc2200.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/arthurlucaas)&nbsp;
@@ -23,7 +25,7 @@
 
 ---
 
-### about me
+### 🖤 about me
 
 <table>
 <tr>
@@ -40,10 +42,12 @@ goal:     primeiro estágio em tech
 ```
 
 - SENAI — Desenvolvedor Back-End + Spring Boot com API REST
+- Azure AI-102 — Computer Vision, NLP, Generative AI (60h)
 - Ouro OMASP · 2× Ouro Olimpíada de Redação SP
 - open to internship opportunities
 
 </td>
+
 <td valign="center" width="50%" align="center">
 
 <img src="121684481854b8011728e53fbe0d54ff.png" width="550"/>
@@ -54,7 +58,7 @@ goal:     primeiro estágio em tech
 
 ---
 
-### technologies
+### ❤️ technologies
 
 **core**
 
@@ -74,7 +78,7 @@ goal:     primeiro estágio em tech
 
 ---
 
-### projects
+### 🗂️ projects
 
 <table>
 <tr>
@@ -121,7 +125,7 @@ consumo de web service SOAP para conversão numérica.
 
 ---
 
-### statistics
+### 📊 statistics
 
 <div align="center">
 
@@ -139,8 +143,6 @@ consumo de web service SOAP para conversão numérica.
 
 </div>
 
----
-
 <div align="center">
-<sub>feito com <code>java</code> e café · são paulo, br</sub>
+  <img src="./footer.svg" width="100%"/>
 </div>
