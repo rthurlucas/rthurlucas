@@ -1,0 +1,59 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background dark com leve vinheta vermelha nas bordas -->
+  <rect width="900" height="220" fill="#080808"/>
+  <!-- Vinheta vermelha sutil nos cantos -->
+  <rect width="900" height="220" fill="url(#vignette)" opacity="0.35"/>
+  <defs>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#8b0000" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Stars -->
+  <circle cx="30" cy="18" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="90" cy="42" r="0.8" fill="#ffffff" opacity="0.3"/>
+  <circle cx="160" cy="12" r="1.2" fill="#ffffff" opacity="0.6"/>
+  <circle cx="230" cy="28" r="0.7" fill="#ffffff" opacity="0.4"/>
+  <circle cx="320" cy="10" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="410" cy="22" r="0.8" fill="#ffffff" opacity="0.3"/>
+  <circle cx="500" cy="8" r="1.1" fill="#ffffff" opacity="0.6"/>
+  <circle cx="580" cy="32" r="0.9" fill="#ffffff" opacity="0.4"/>
+  <circle cx="710" cy="15" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="810" cy="48" r="0.7" fill="#ffffff" opacity="0.3"/>
+  <circle cx="870" cy="22" r="0.9" fill="#ffffff" opacity="0.4"/>
+  <circle cx="60" cy="68" r="0.8" fill="#ffffff" opacity="0.2"/>
+  <circle cx="140" cy="58" r="1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="760" cy="62" r="0.9" fill="#ffffff" opacity="0.3"/>
+  <circle cx="850" cy="52" r="1.1" fill="#ffffff" opacity="0.5"/>
+  <!-- Estrelas avermelhadas sutis -->
+  <circle cx="200" cy="50" r="1" fill="#cc2200" opacity="0.4"/>
+  <circle cx="680" cy="30" r="0.9" fill="#cc2200" opacity="0.3"/>
+  <circle cx="780" cy="15" r="1" fill="#cc2200" opacity="0.35"/>
+
+  <!-- Montanhas distantes -->
+  <polygon points="0,160 80,108 180,128 270,98 370,118 450,88 550,112 650,93 750,116 840,103 900,113 900,220 0,220" fill="#130a0a"/>
+  <!-- Montanhas médias -->
+  <polygon points="0,178 100,143 210,153 320,133 430,148 530,128 630,146 730,136 840,153 900,138 900,220 0,220" fill="#0d0505"/>
+  <!-- Chão -->
+  <polygon points="0,195 900,195 900,220 0,220" fill="#070202"/>
+
+  <!-- Linha horizontal vermelha fina no horizonte -->
+  <line x1="0" y1="162" x2="900" y2="162" stroke="#8b0000" stroke-width="0.4" opacity="0.4"/>
+
+  <!-- Estrada perspectiva com tom vermelho -->
+  <line x1="450" y1="98" x2="250" y2="220" stroke="#3a0000" stroke-width="1.2" opacity="0.8"/>
+  <line x1="450" y1="98" x2="650" y2="220" stroke="#3a0000" stroke-width="1.2" opacity="0.8"/>
+
+  <!-- Título -->
+  <text x="450" y="80" text-anchor="middle" font-family="monospace" font-size="44" font-weight="700" fill="#ffffff" letter-spacing="5">arthur lucas</text>
+
+  <!-- Linha decorativa vermelha sob o título -->
+  <line x1="300" y1="90" x2="600" y2="90" stroke="#cc2200" stroke-width="0.6" opacity="0.6"/>
+
+  <!-- Subtítulo -->
+  <text x="450" y="112" text-anchor="middle" font-family="monospace" font-size="14" font-weight="400" fill="#aaaaaa" letter-spacing="3">back-end developer / são paulo</text>
+
+  <!-- Linha decorativa cinza sob subtítulo -->
+  <line x1="340" y1="122" x2="560" y2="122" stroke="#333333" stroke-width="0.8"/>
+</svg>
