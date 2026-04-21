@@ -1,101 +1,146 @@
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8C78B4&center=true&vCenter=true&width=800&height=200&background=02020A&lines=Welcome+to+Arthur's+GitHub;%3C+back-end+developer+%C2%B7+s%C3%A3o+paulo+%2F%3E" />
+  <img src="./banner.svg" width="100%"/>
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8c78b4&labelColor=0d1117)](https://linkedin.com/in/arthurlucaas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=8c78b4&labelColor=0d1117)](https://meu-portfolio-mu-three.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=8c78b4&labelColor=0d1117)](https://github.com/rthurlucas)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23cc2200.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/arthurlucaas)&nbsp;
+[![GitHub](https://img.shields.io/badge/github-%23cc2200.svg?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/rthurlucas)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
 ```
-╔─────────────────────────────────────────────╗
   back-end developer  ·  são paulo, br
   java · spring boot · rest apis · mysql
   procurando primeiro estágio em tech
-╚─────────────────────────────────────────────╝
 ```
 
 </div>
 
 ---
 
-<h2 align="center">about me</h2>
+### about me
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="60%">
 
-sou **Arthur Lucas**, estudante de back-end no **SENAI São Paulo**.
-construo APIs REST com **Java**, Spring Boot e Spring Security.
-cada projeto é um passo em direção ao primeiro estágio.
+oi, sou **Arthur Lucas**, estudante de back-end no **SENAI São Paulo**. gosto de construir coisas que funcionam — APIs, sistemas com autenticação, integrações. cada linha de código é um passo em direção ao primeiro estágio.
 
-<br/>
+```yaml
+name:     Arthur Lucas
+role:     Back-End Developer (estudante)
+location: São Paulo, SP — Brasil
+focus:    Java · Spring Boot · REST APIs
+goal:     primeiro estágio em tech
+```
 
-`→` SENAI — Desenvolvedor Back-End + Spring Boot com API REST
-`→` Ouro OMASP · 2x Ouro Olimpíada de Redação SP
-`→` open to internship opportunities
+- SENAI — Desenvolvedor Back-End + Spring Boot com API REST
+- Ouro OMASP · 2× Ouro Olimpíada de Redação SP
+- open to internship opportunities
 
-</div>
+</td>
+<td valign="center" width="40%" align="center">
+
+<img src="121684481854b8011728e53fbe0d54ff.png" width="500"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">technologies</h2>
-
-<div align="center">
+### technologies
 
 **core**
 
-![Java](https://img.shields.io/badge/java_17-0d1117?style=flat-square&logo=openjdk&logoColor=8c78b4)
-![Spring Boot](https://img.shields.io/badge/spring_boot-0d1117?style=flat-square&logo=springboot&logoColor=4a9e5c)
-![Spring Security](https://img.shields.io/badge/spring_security-0d1117?style=flat-square&logo=springsecurity&logoColor=4a9e5c)
-![JWT](https://img.shields.io/badge/jwt-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=8c78b4)
-![Hibernate](https://img.shields.io/badge/hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=666688)
-![Flyway](https://img.shields.io/badge/flyway-0d1117?style=flat-square&logo=flyway&logoColor=666688)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark)](https://skillicons.dev)
+
+</div>
 
 **database & infra**
 
-![MySQL](https://img.shields.io/badge/mysql-0d1117?style=flat-square&logo=mysql&logoColor=4a6e9e)
-![REST API](https://img.shields.io/badge/rest_api-0d1117?style=flat-square&logo=fastapi&logoColor=4a6e9e)
-![Maven](https://img.shields.io/badge/maven-0d1117?style=flat-square&logo=apachemaven&logoColor=6a4a9e)
-![Git](https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=6a4a9e)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,maven,idea&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-<h2 align="center">best repositories</h2>
+### projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![AutoEscolaN116](https://github-readme-stats.vercel.app/api/pin/?username=rthurlucas&repo=AutoEscolaN116&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8c78b4&icon_color=8c78b4&text_color=666688)](https://github.com/rthurlucas/AutoEscolaN116)
-[![ViaCep](https://github-readme-stats.vercel.app/api/pin/?username=rthurlucas&repo=ViaCep&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8c78b4&icon_color=8c78b4&text_color=666688)](https://github.com/rthurlucas/ViaCep)
-[![ConversorNumero](https://github-readme-stats.vercel.app/api/pin/?username=rthurlucas&repo=ConversorNumero&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8c78b4&icon_color=8c78b4&text_color=666688)](https://github.com/rthurlucas/ConversorNumero)
-[![WebService](https://github-readme-stats.vercel.app/api/pin/?username=rthurlucas&repo=WebService&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8c78b4&icon_color=8c78b4&text_color=666688)](https://github.com/rthurlucas/WebService)
+**[AutoEscolaN116](https://github.com/rthurlucas/AutoEscolaN116)**
 
-</div>
+sistema de autoescola com autenticação JWT e controle de acesso por roles.
+
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Flyway`
+
+</td>
+<td width="50%">
+
+**[loja-jogos](https://github.com/rthurlucas/loja-jogos)**
+
+api rest de loja de jogos com CRUD completo.
+
+`Java` `Spring Boot` `MySQL` `JPA`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[ViaCEP](https://github.com/rthurlucas/ViaCEP)**
+
+cliente REST para consulta e integração de endereços via CEP.
+
+`Java` `REST API` `HttpClient`
+
+</td>
+<td width="50%">
+
+**[WebService / ConversorNumerico](https://github.com/rthurlucas/WebService)**
+
+consumo de web service SOAP para conversão numérica.
+
+`Java` `SOAP` `XML`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">statistics</h2>
+### statistics
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=rthurlucas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8c78b4&icon_color=8c78b4&text_color=666688&rank_icon=github" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rthurlucas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8c78b4&text_color=666688" />
-
-<img width="100%" src="https://streak-stats.demolab.com?user=rthurlucas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8c78b4&fire=6a4a9e&currStreakLabel=8c78b4&sideLabels=666688&dates=444460" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rthurlucas&theme=github-compact&hide_border=true&bg_color=0d1117&color=8c78b4&line=6a4a9e&point=8c78b4&area=true&area_color=8c78b4" />
-
-</div>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=rthurlucas&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=cc2200&text_color=888888&icon_color=cc2200&count_private=true"/>
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rthurlucas&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=cc2200&text_color=888888"/>
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=rthurlucas&theme=dark&hide_border=true&background=000000&ring=cc2200&fire=cc2200&currStreakLabel=cc2200&sideLabels=888888&dates=444444&stroke=111111"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rthurlucas&bg_color=000000&color=cc2200&line=cc2200&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c0816,100:02020a&height=80&section=footer" />
+<sub>feito com <code>java</code> e café · são paulo, br</sub>
 </div>
