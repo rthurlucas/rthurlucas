@@ -44,9 +44,9 @@ goal:     primeiro estágio em tech
 - open to internship opportunities
 
 </td>
-<td valign="center" width="40%" align="center">
+<td valign="center" width="50%" align="center">
 
-<img src="121684481854b8011728e53fbe0d54ff.png" width="500"/>
+<img src="121684481854b8011728e53fbe0d54ff.png" width="550"/>
 
 </td>
 </tr>
