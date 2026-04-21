@@ -31,7 +31,7 @@
 <tr>
 <td valign="top" width="60%">
 
-oi, sou **Arthur Lucas**, estudante de back-end no **SENAI São Paulo**. gosto de construir coisas que funcionam — APIs, sistemas com autenticação, integrações. cada linha de código é um passo em direção ao primeiro estágio.
+oi, sou **Arthur Lucas**, estudante de back-end no **SENAI São Paulo**. gosto de construir coisas que funcionam APIs, sistemas com autenticação, integrações. cada linha de código é um passo em direção ao primeiro estágio.
 
 ```yaml
 name:     Arthur Lucas
