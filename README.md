@@ -91,15 +91,7 @@ sistema de autoescola com autenticação JWT e controle de acesso por roles.
 `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Flyway`
 
 </td>
-<td width="50%">
 
-**[loja-jogos](https://github.com/rthurlucas/loja-jogos)**
-
-api rest de loja de jogos com CRUD completo.
-
-`Java` `Spring Boot` `MySQL` `JPA`
-
-</td>
 </tr>
 <tr>
 <td width="50%">
