@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rthurlucas/rthurlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arthur Lucas
 
-Here are some ideas to get you started:
+**`Back-end Developer`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+I'm a back-end developer focused on building robust and scalable systems with clean, well-structured code. Passionate about software architecture, I'm always seeking to improve my technical skills and deliver reliable solutions. Currently deepening my knowledge in Java ecosystems, distributed messaging systems, and containerization with my eyes set on the industry.
+
+---
+
+<div align="center">
+
+### Languages & Tools
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,rabbitmq,mysql,postgres,git,github&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+
+</div>
