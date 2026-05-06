@@ -30,7 +30,7 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 
 <br/>
 
-[![Arthur's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rthurlucas&theme=github-compact&hide_border=true)](https://github.com/rthurlucas)
+![Arthur's Contribution Graph](https://ghchart.rshah.org/238636/rthurlucas)
 
 </div>
 
