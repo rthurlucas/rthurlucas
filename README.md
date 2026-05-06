@@ -8,7 +8,7 @@
 
 ---
 
-I'm a back-end developer focused on building robust and scalable systems with clean, well-structured code. Passionate about software architecture, I'm always seeking to improve my technical skills and deliver reliable solutions. Currently deepening my knowledge in Java ecosystems, distributed messaging systems, and containerization with my eyes set on the industry.
+I'm a back-end developer focused on building robust and scalable systems with clean, well-structured code. Passionate about software architecture, I'm always seeking to improve my technical skills and deliver reliable solutions. Currently deepening my knowledge in Java ecosystems, distributed messaging systems, and containerization — with my eyes set on the industry.
 
 ---
 
@@ -26,8 +26,20 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 
 <div align="center">
 
+### GitHub Activity
+
+<br/>
+
+[![Arthur's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rthurlucas&theme=github-compact&hide_border=true)](https://github.com/rthurlucas)
+
+</div>
+
+---
+
+<div align="center">
+
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurlucaas/)
 
 </div>
