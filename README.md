@@ -26,18 +26,6 @@ I'm a back-end developer focused on building robust and scalable systems with cl
 
 <div align="center">
 
-### GitHub Activity
-
-<br/>
-
-![Arthur's Contribution Graph](https://ghchart.rshah.org/238636/rthurlucas)
-
-</div>
-
----
-
-<div align="center">
-
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurlucaas/)
